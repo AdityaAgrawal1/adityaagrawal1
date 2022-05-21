@@ -45,15 +45,10 @@
 - ⚡ Fun fact: ... I am batman. 😎🦇  -->
 
 ### 🔥 Streak Stats
-<img alt="My Github stats" align="left" border-radius="40px" width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaagrawal1&layout=compact" alt="Vikash Stats">
+<img alt="My Github stats" align="left" border-radius="40px" width="430px" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaagrawal1&layout=compact" alt="Aditya Stats">
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=adityaagrawal1&theme=gruvbox" alt="adityaagrawal1"  /></p>
-
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=adityaagrawal1&theme=gruvbox" alt="adityaagrawal1"/></p>
 <hr>
-
-
-
 
 ## 🛠️ My Skills
 
@@ -70,24 +65,17 @@
 <p align="left">
 
   [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)]()
-  <img src="https://img.shields.io/badge/-React-303030?style=for-the-badge&logo=React" alt="React Js">  
-  <img src="https://img.shields.io/badge/Bootstrap-303030?style=for-the-badge&logo=bootstrap" alt="Bootstrap">
- <img src="https://img.shields.io/badge/-Tailwind-303030?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS">
-
+  <img src="https://img.shields.io/badge/-React-303030?style=for-the-badge&logo=React" alt="React Js"><img src="https://img.shields.io/badge/Bootstrap-303030?style=for-the-badge&logo=bootstrap" alt="Bootstrap"><img src="https://img.shields.io/badge/-Tailwind-303030?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS">
  </p>
 
  ### 👉 Tools & Technologies
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
- &emsp;
   <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  &emsp;
  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) 
-  &emsp;
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
- &emsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-303030?style=for-the-badge&logo=visual-studio-code" alt="Visual Studio Code">
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) &emsp;
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) &emsp;
 <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
 
 
@@ -95,5 +83,4 @@
 
 ------
 Credit: [Aditya Agrawal](https://github.com/adityaagrawal1)
-
 
