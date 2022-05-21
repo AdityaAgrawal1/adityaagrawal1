@@ -45,7 +45,7 @@
 - ⚡ Fun fact: ... I am batman. 😎🦇  -->
 
 ### 🔥 Streak Stats
-<img alt="My Github stats" align="left" border-radius="40px" width="430px" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaagrawal1&layout=compact" alt="Aditya Stats">
+<img alt="My Github stats" align="left" border-radius="40px" width="450px" height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaagrawal1&layout=compact" alt="Aditya Stats">
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=adityaagrawal1&theme=gruvbox" alt="adityaagrawal1"/></p>
 <hr>
