@@ -21,12 +21,12 @@
 <h3> Here's some fun facts about me: </h3>
 
 - 🔭 I’m currently working on IOT based Projects.
-- 🌱 I've 18+ months of professional experience and built five native android applications.
-- 👯 I’m looking to collaborate on Kotlin/Java, Android Development and React Projects
+- 🌱 I've 30+ months of professional experience and built 7 native android applications and 2 Hybrid Mobile Apps.
+- 👯 I’m looking to collaborate on Kotlin/Java in Android Development and Flutter/Dart in Hybrid Apps Development.
 - 🤔 I also work as a Freelancer at Upwork and Fiverr.
-- 💬 Ask me about Programming or Android Development.
+- 💬 Ask me about Programming or anything related to Mobile Development.
 - ✏️🖋️ I love to sketch and sometimes write stuff.
-<!-- - 📫 I am also a technical writer at Medium 
+<!-- - 📫 I am also a writer at Medium 
 -  📰 Articles: 
 	-	[Build Your Own Generative Adversarial Network (GAN) Using Pytorch](https://pub.towardsai.net/build-your-own-generative-adversarial-network-gan-using-pytorch-c367b8506987) 
 	- [Dog Breed Classifier With PyTorch Using Transfer Learning](https://levelup.gitconnected.com/dog-breed-classifier-with-pytorch-using-transfer-learning-8f15af6f9010) -->
